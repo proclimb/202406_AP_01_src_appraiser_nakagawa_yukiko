@@ -13,7 +13,6 @@ function fnArticleEditCheck() {
 		form.act.value = 'articleEditComplete';
 		form.submit();
 	}
-	form.submit();
 }
 
 
